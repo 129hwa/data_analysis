@@ -1,0 +1,7 @@
+
+	Kruskal-Wallis rank sum test
+
+data:  Sales by Sub_Category
+Kruskal-Wallis chi-squared = 4340.7, df =
+16, p-value < 2.2e-16
+
